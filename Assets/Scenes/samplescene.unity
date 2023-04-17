@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52890e7c8890d3a4f8eda3a905fe240b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  path: C:/Users/15151/UnityWorks/HKAA_L5/Assets/TempBuild/temp_HKAA_L5_D_RAD/Export_temp_HKAA_L5_D_RAD/temp_HKAA_L5_D_RAD.radscene
+  path: C:/Users/15151/UnityWorks/HKAA_L5/Assets/BuildToolOutputDir/HKAA_L5_D_RAD/Export_HKAA_L5_D_RAD/HKAA_L5_D_RAD.radscene
 --- !u!4 &895749825
 Transform:
   m_ObjectHideFlags: 0
@@ -621,6 +621,10 @@ PrefabInstance:
     - target: {fileID: 5463681504703001274, guid: 7b43c2a02bee4ea43862064780dfddb2, type: 3}
       propertyPath: m_Name
       value: Cylinder
+      objectReference: {fileID: 0}
+    - target: {fileID: 5463681504703001274, guid: 7b43c2a02bee4ea43862064780dfddb2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8344749499556655364, guid: 7b43c2a02bee4ea43862064780dfddb2, type: 3}
       propertyPath: value

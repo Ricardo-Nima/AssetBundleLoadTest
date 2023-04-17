@@ -364,9 +364,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Editor/LoadFromEditor.cs"
-"Assets/Editor/TestEditor.cs"
-"Assets/Editor/UnpackInst.cs"
+"Assets/Load/Editor/LoadFromEditor.cs"
+"Assets/Load/Editor/TestEditor.cs"
+"Assets/Load/Editor/UnpackInst.cs"
 -langversion:9.0
 
 /deterministic
